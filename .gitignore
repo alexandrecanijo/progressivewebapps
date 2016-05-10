@@ -1,0 +1,9 @@
+node_modules
+dist/
+.tmp
+app.yaml
+reports/
+temp/
+.idea
+.DS_Store
+npm-debug.log
